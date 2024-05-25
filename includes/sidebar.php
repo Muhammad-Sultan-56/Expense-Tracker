@@ -8,7 +8,7 @@
                 </li>
 
                 <li>
-                    <a href=""><i class="fa fa-list-ul" aria-hidden="true"></i> <span>Categories</span></a>
+                    <a href="categories.php"><i class="fa fa-list-ul" aria-hidden="true"></i> <span>Categories</span></a>
                 </li>
 
                 <li>
