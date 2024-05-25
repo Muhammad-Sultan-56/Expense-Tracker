@@ -5,3 +5,11 @@
 <script src="assets/js/Chart.bundle.js"></script>
 <script src="assets/js/chart.js"></script>
 <script src="assets/js/app.js"></script>
+
+<script>
+    let notification = document.getElementById("notification");
+
+    setTimeout(() => {
+        notification.style.display = "none";
+    }, 3000)
+</script>
